@@ -82,7 +82,6 @@ const App = () => {
           <label htmlFor="characterInput">Characters</label>
         </div>
       </div>
-      <div>ram ram </div>
     </div>
   );
 };
